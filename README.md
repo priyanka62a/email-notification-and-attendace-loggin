@@ -1,4 +1,4 @@
-# email-notification-and-attendace-loggin
+# email-notification-and-attendace-logging
 %Call the Python script for face recognition
 
 [status, cmdout] = system("python "C:\Users\admin\OneDrive\Desktop\miniproject face recognition script2.py"");
